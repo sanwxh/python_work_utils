@@ -1,40 +1,432 @@
 === 12-18.pdf ===
 Page 1:
-736585
+20.00 26 Cove at Riverbend DI
+PO# 736585
+$330.00
 
 Page 2:
-736586
+21.34 31 Cove at Riverbend DI
+PO# 736586
+$352.11
 
 Page 3:
-736587
+20.67 32 Cove at Riverbend DI
+PO# 736587
+$341.06
 
 Page 4:
-736588
+21.34 33 Cove at Riverbend DI
+PO# 736588
+$352.11
 
 Page 5:
-736590
+20.67 34 Cove at Riverbend DI
+PO# 736590
+$341.06
 
 Page 6:
-736591
+21.34 35 Cove at Riverbend DI
+PO# 736591
+$352.11
 
 Page 7:
-736592
+47.00 520 Victoria Oaks DI
+PO# 736592
+$775.50
 
 Page 8:
-736593
+47.34 523 Victoria Oaks DI
+PO# 736593
+$781.11
 
 Page 9:
-736594
+33.00 90 Eagle Crest DI
+PO# 736594
+$544.50
 
 Page 10:
-736595
+30.00 187 Eastgrove SH
+PO# 736595
+$720.00
 
 Page 11:
-736596
+24.00 510 Victoria Oaks SH
+PO# 736596
+$576.00
 
 Page 12:
-736597
+28.34 76 Eagle Crest SH
+PO# 736597
+$680.16
 
 Page 13:
-736598
+28.67 130 Eagle Crest SH
+PO# 736598
+$688.08
+
+=== 12-15.pdf ===
+Page 1:
+31.67 58 Concorde DI
+PO# 736490
+$522.56
+
+Page 2:
+31.67 59 Concorde DI
+PO# 736491
+$522.56
+
+Page 3:
+27.67 184 Eastgrove DI
+PO# 736492
+$456.56
+
+Page 4:
+14.00 2650 Heritage Lakes Blvd DI
+PO# 736493
+$252.00
+
+Page 5:
+18.67 2690 Heritage Lakes Blvd DI
+PO# 736494
+$336.06
+
+Page 6:
+14.00 2750 Heritage Lakes Blvd DI
+PO# 736495
+$252.00
+
+Page 7:
+18.67 2790 Heritage Lakes Blvd DI
+PO# 736496
+$336.06
+
+Page 8:
+66.34
+20.00 Bld 13 Sadler Trace DI
+PO# 736497
+$240.00
+1,334.61
+
+Page 9:
+24.00 813 Coastal Woods SH
+PO# 736498
+$576.00
+
+Page 10:
+34.67 115 Eastgrove SH
+PO# 736499
+$832.08
+
+Page 11:
+31.67 116 Eastgrove SH
+PO# 736500
+$760.08
+
+Page 12:
+24.00 119 Eastgrove SH
+PO# 736501
+$576.00
+
+Page 13:
+28.67 188 Eastgrove SH
+PO# 736502
+$688.08
+
+Page 14:
+30.00 189 Eastgrove SH
+PO# 736503
+$720.00
+
+Page 15:
+27.00 309 Lakewood Park SH
+PO# 736504
+$648.00
+
+=== 12-13.pdf ===
+Page 1:
+30.67 2840 Courtland Blvd DI
+PO# 736214
+$506.06
+
+Page 2:
+26.34 186 Eastgrove DI
+PO# 736215
+$434.61
+
+Page 3:
+31.67 572 Victoria Oaks SH
+PO# 736216
+$760.08
+
+Page 4:
+20.34 1953 Eden Ln SH
+PO# 736217
+$488.16
+
+Page 5:
+20.34 2153 Eden Ln SH
+PO# 736219
+$488.16
+
+=== 12-07.pdf ===
+Page 1:
+29.34 31 Concorde DI
+PO# 735638
+$484.11
+
+Page 2:
+31.67 27 Cove at Riverbend DI
+PO# 735639
+$522.56
+
+Page 3:
+21.34 29 Cove at Riverbend DI
+PO# 735640
+$352.11
+
+Page 4:
+20.67 30 Cove at Riverbend DI
+PO# 735641
+$341.06
+
+Page 5:
+28.67 46-3 Pelham Park DI
+PO# 735643
+$473.06
+
+Page 6:
+39.67 522 Victoria Oaks DI
+PO# 735644
+$654.56
+
+Page 7:
+29.34 572 Victoria Oaks DI
+PO# 735645
+$484.11
+
+Page 8:
+27.00 130 Eagle Crest DI
+PO# 735646
+$445.50
+
+Page 9:
+33.67 219 Lakewood Park DI
+PO# 735648
+$555.56
+
+Page 10:
+24.00 309 Lakewood Park DI
+PO# 735649
+$396.00
+
+Page 11:
+17.67 4794 Captain Place DI
+PO# 735651
+$318.06
+
+Page 12:
+14.00 4554 Captain Place DI
+PO# 735652
+$252.00
+
+Page 13:
+17.67 4594 Captain Place DI
+PO# 735653
+$318.06
+
+Page 14:
+14.00 4654 Captain Place DI
+PO# 735654
+$252.00
+
+Page 15:
+17.67 4694 Captain Place DI
+PO# 735655
+$318.06
+
+Page 16:
+14.00 4754 Captain Place DI
+PO# 735656
+$252.00
+
+Page 17:
+38.34
+38.34 743 Coconut St SE DI
+PO# 735657
+$230.04
+862.65
+
+Page 18:
+17.67 1953 Eden Ln DI
+PO# 735658
+$318.06
+
+Page 19:
+24.34 810 Varr Ave SH
+PO# 735659
+$584.16
+
+Page 20:
+28.67 133 Lakewood Park SH
+PO# 735660
+$688.08
+
+Page 21:
+16.00 2093 Eden Ln SH
+PO# 735663
+$416.00
+
+=== 12-11.pdf ===
+Page 1:
+21.34 813 Coastal Woods DI
+PO# 735984
+$352.11
+
+Page 2:
+31.67 814 Coastal Woods DI
+PO# 735985
+$522.56
+
+Page 3:
+29.34 37 Concorde DI
+PO# 735986
+$484.11
+
+Page 4:
+26.00 76 Eagle Crest DI
+PO# 735987
+$429.00
+
+Page 5:
+30.67 53-3 Pelham Park SH
+PO# 735988
+$736.08
+
+Page 6:
+33.67 511 Victoria Oaks SH
+PO# 735989
+$808.08
+
+Page 7:
+31.67 512 Victoria Oaks SH
+PO# 735990
+$760.08
+
+Page 8:
+23.00 579 Victoria Oaks SH
+PO# 735991
+$552.00
+
+Page 9:
+253.00 Epoch West Melbourne SH
+PO# 735992
+$9,867.00
+
+Page 10:
+42.00
+38.34 743 Coconut St SE SH
+PO# 735993
+$230.04
+1,238.04
+
+Page 11:
+31.67 901 Coastal Woods SH
+PO# 735994
+$760.08
+
+Page 12:
+31.67 902 Coastal Woods SH
+PO# 735995
+$760.08
+
+Page 13:
+24.00 908 Coastal Woods SH
+PO# 735997
+$576.00
+
+Page 14:
+31.67 31 Concorde SH
+PO# 735998
+$760.08
+
+Page 15:
+34.67 35 Concorde SH
+PO# 735999
+$832.08
+
+Page 16:
+32.00 36 Concorde SH
+PO# 736000
+$768.00
+
+Page 17:
+56.67 3 Ivey Ln SH
+PO# 736002
+$3,230.19
+
+=== 12-04.pdf ===
+Page 1:
+31.67 35 Concorde DI
+PO# 735231
+$522.56
+
+Page 2:
+30.00 36 Concorde DI
+PO# 735232
+$495.00
+
+Page 3:
+21.34 510 Victoria Oaks DI
+PO# 735233
+$352.11
+
+Page 4:
+33.34 524 Victoria Oaks DI
+PO# 735234
+$550.11
+
+Page 5:
+21.00 212 Lakewood Park DI
+PO# 735235
+$346.50
+
+Page 6:
+30.67 2608 Hillview Cir DI
+PO# 735236
+$506.06
+
+Page 7:
+34.67 868 Coastal Woods SH
+PO# 735237
+$832.08
+
+Page 8:
+35.00 904 Coastal Woods SH
+PO# 735238
+$840.00
+
+Page 9:
+35.00 907 Coastal Woods SH
+PO# 735239
+$840.00
+
+Page 10:
+24.00 912 Coastal Woods SH
+PO# 735240
+$576.00
+
+Page 11:
+33.67 28 Concorde SH
+PO# 735241
+$808.08
+
+Page 12:
+24.00 33 Concorde SH
+PO# 735242
+$576.00
+
+Page 13:
+34.67 216 Lakewood Park SH
+PO# 735243
+$832.08
 
