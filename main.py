@@ -39,7 +39,7 @@ input_folder = 'input'
 output_file = 'output.txt'
 # Specify the region to extract (replace with appropriate coordinates)
 # For example: (x0, y0, x1, y1) where (x0, y0) is the top-left corner and (x1, y1) is the bottom-right corner
-region = (75, 0, 500, 250)
+region = (498, 78, 542, 95)
 
 # Process PDFs, delete existing output file, create a new one, and write parsed data to the new output file
 process_pdfs(input_folder, output_file, region)
